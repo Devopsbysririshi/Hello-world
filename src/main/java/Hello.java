@@ -13,4 +13,9 @@ public class Hello {
 		return new Date();
 
 	}
+	private  Date getLocalCurrentDate1() {
+		String m = "Bala JavaDevops";
+		return new Date();
+
+	}
 }
